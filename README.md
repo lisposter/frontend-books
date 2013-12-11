@@ -85,4 +85,5 @@ JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实
 
 书名   | 作者  | 简介 | 链接 | 备注
 ----- | ----- | ------ | ----- | -----
-锋利的jQuery | 单东林 / 张晓菲 / 无魏然  | jQuery最易懂的书 | [豆瓣](http://book.douban.com/subject/10792216/) | 第二版
+大话数据结构 | 程杰   | 适合自学的关于数据结构的书 | [豆瓣](http://book.douban.com/subject/6424904/) | 
+HTTP权威指南 | David Gourley / Brian Totty  | 详解HTTP | [豆瓣](http://book.douban.com/subject/10746113/) | 
