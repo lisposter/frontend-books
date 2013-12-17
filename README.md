@@ -67,6 +67,13 @@ JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实
 锋利的jQuery | 单东林 / 张晓菲 / 无魏然  | jQuery最易懂的书 | [豆瓣](http://book.douban.com/subject/10792216/) | 第二版
 
 
+## 语言衍生：
+
+书名   | 作者  | 简介 | 链接 | 备注
+----- | ----- | ------ | ----- | -----
+深入浅出Node.js | 朴灵   | 国产Node.js，国内Node布道者朴灵力作 | [豆瓣](http://book.douban.com/subject/25768396/) | 第二版
+
+
 
 ## 用户体验：
 
