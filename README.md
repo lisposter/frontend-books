@@ -65,6 +65,7 @@ JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实
 书名   | 作者  | 简介 | 链接 | 备注
 ----- | ----- | ------ | ----- | -----
 深入浅出Node.js | 朴灵   | 国产Node.js，国内Node布道者朴灵力作 | [豆瓣](http://book.douban.com/subject/25768396/) |
+了不起的Node.js: 将JavaScript进行到底 | 劳奇 (Guillermo Rauch)、 赵静 (Goddy Zhao)译 | Socket.IO作者—— Guillermo Rauch 所著，拥有大量实战案例 | [亚马逊](http://www.amazon.cn/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node-js-%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95-%E5%8A%B3%E5%A5%87/dp/B00GI7EO6U/ref=sr_1_1?ie=UTF8&qid=1403509927&sr=8-1&keywords=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84node.js) | 
 锋利的jQuery | 单东林 / 张晓菲 / 无魏然  | jQuery最易懂的书 | [豆瓣](http://book.douban.com/subject/10792216/) | 第二版
 用AngularJS开发下一代Web应用  | 格林 (Green.B.)、夏德瑞 (Seshadri.S.)、 大漠穷秋 | Google 提供的前端框架 | [Amazon](http://www.amazon.cn/%E7%94%A8AngularJS%E5%BC%80%E5%8F%91%E4%B8%8B%E4%B8%80%E4%BB%A3Web%E5%BA%94%E7%94%A8-%E6%A0%BC%E6%9E%97/dp/B00G3XSBG8/ref=sr_1_1?ie=UTF8&qid=1403053108&sr=8-1&keywords=angular) |
 
