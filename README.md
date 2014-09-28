@@ -15,16 +15,21 @@
 
 ### 1.1 HTML：
 
-无书籍推荐，个人认为，入门的时候，搞清楚HTML是什么，那一堆标签什么意思，就OK了。
-[W3Schools-HTML(英)](http://www.w3schools.com/html/) ， [W3School-HTML（中）](http://www.w3school.com.cn/html/)
+无书籍推荐，个人认为，入门的时候，搞清楚HTML是什么，那一堆标签什么意思，就可以了，特别是 HTML 5 新增和修改的那些。
 
+* [MDN-HTML(英)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* ~~[W3Schools-HTML(英)](http://www.w3schools.com/html/)~~
+* ~~[W3School-HTML（中）](http://www.w3school.com.cn/html/)~~
+
+*注：删掉了 w3school, 是因为之前有伙伴对着一个 demo，折腾了半天没弄出来，结果是因为 demo 的代码写坑了，中文的那个没有仔细看过，但也应该注意分辨*
 
 #### 1.2 CSS：
 
 书名   | 作者  | 简介 | 链接 | 备注
 ----- | ----- | ------ | ----- | -----
-CSS禅意花园 | Dave Shea, Molly E. Holzschlag | CSS最经典之作之一 | [豆瓣](http://book.douban.com/subject/2052176/) | 
-CSS权威指南 | Eric A. Meyer | 权威指南，文档之外不二选择 | [豆瓣](http://book.douban.com/subject/2308234/) | 第三版
+精通CSS |  Andy Budd, Simon Collison, Cameron Moll | 内涵多种实际开发中的技巧和解决方案 | [豆瓣](http://book.douban.com/subject/4736167/)|
+CSS权威指南 | Eric A. Meyer | 权威指南，文档之外不二选择 | [豆瓣](http://book.douban.com/subject/2308234/) | 第三版|
+CSS禅意花园 | Dave Shea, Molly E. Holzschlag | CSS最经典之作之一 | [豆瓣](http://book.douban.com/subject/2052176/) |
 
 #### 1.3 JavaScript：
 
@@ -65,7 +70,7 @@ JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实
 书名   | 作者  | 简介 | 链接 | 备注
 ----- | ----- | ------ | ----- | -----
 深入浅出Node.js | 朴灵   | 国产Node.js，国内Node布道者朴灵力作 | [豆瓣](http://book.douban.com/subject/25768396/) |
-了不起的Node.js: 将JavaScript进行到底 | 劳奇 (Guillermo Rauch)、 赵静 (Goddy Zhao)译 | Socket.IO作者—— Guillermo Rauch 所著，拥有大量实战案例 | [亚马逊](http://www.amazon.cn/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node-js-%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95-%E5%8A%B3%E5%A5%87/dp/B00GI7EO6U/ref=sr_1_1?ie=UTF8&qid=1403509927&sr=8-1&keywords=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84node.js) | 
+了不起的Node.js: 将JavaScript进行到底 | 劳奇 (Guillermo Rauch)、 赵静 (Goddy Zhao)译 | Socket.IO作者—— Guillermo Rauch 所著，拥有大量实战案例 | [亚马逊](http://www.amazon.cn/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node-js-%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95-%E5%8A%B3%E5%A5%87/dp/B00GI7EO6U/ref=sr_1_1?ie=UTF8&qid=1403509927&sr=8-1&keywords=%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84node.js) |
 锋利的jQuery | 单东林 / 张晓菲 / 无魏然  | jQuery最易懂的书 | [豆瓣](http://book.douban.com/subject/10792216/) | 第二版
 用AngularJS开发下一代Web应用  | 格林 (Green.B.)、夏德瑞 (Seshadri.S.)、 大漠穷秋 | Google 提供的前端框架 | [Amazon](http://www.amazon.cn/%E7%94%A8AngularJS%E5%BC%80%E5%8F%91%E4%B8%8B%E4%B8%80%E4%BB%A3Web%E5%BA%94%E7%94%A8-%E6%A0%BC%E6%9E%97/dp/B00G3XSBG8/ref=sr_1_1?ie=UTF8&qid=1403053108&sr=8-1&keywords=angular) |
 
@@ -89,3 +94,4 @@ JavaScript模式 | Stoyan Stefanov  | 包含了实现每个讨论的模式的实
 ----- | ----- | ------ | ----- | -----
 大话数据结构 | 程杰   | 适合自学的关于数据结构的书 | [豆瓣](http://book.douban.com/subject/6424904/) |
 HTTP权威指南 | David Gourley / Brian Totty  | 详解HTTP | [豆瓣](http://book.douban.com/subject/10746113/) |
+白帽子讲Web安全 | 吴翰清  | 阿里安全专家所著，畅销多国| [豆瓣](http://book.douban.com/subject/10546925/)|
