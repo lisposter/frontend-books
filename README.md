@@ -51,6 +51,7 @@ HTML5高级程序设计 | Peter Lubbers / Ric Smith / Frank Salim / Brian Albers
 书名   | 作者  | 简介 | 链接 | 备注
 ----- | ----- | ------ | ----- | -----
 精通CSS | Andy Budd, Simon Collison, Cameron Moll  | 汇聚CSS中最佳的实践方案 | [豆瓣](http://book.douban.com/subject/4736167/) | 第二版
+响应式Web设计实践 | Tim Kadlec  | 除了介绍实现响应式的核心技术以外，还包括了较完整的设计方法、流程以及团队的协作，是学习和实践响应式设计的一本好书。 | [豆瓣](http://book.douban.com/subject/21263576/) | 第二版
 网站重构 | Jeffrey Zeldman / Ethan Marcotte  | 让基于标准的设计思想更加清晰,更加易于理解,帮助你在这个领域中保持聪明和领先。 | [豆瓣](http://book.douban.com/subject/6011420/) | 第三版
 
 ### 2.3 JavaScript：
